@@ -1,0 +1,54 @@
+body{
+    background-image: url("../images/");
+    color: lightgray;
+    font-family: 'Space Mono', monospace;
+  }
+  
+  h1.jumboContentTitle{
+    color: dimgray;
+  }
+  
+  .jumboContent{
+    color: dimgray;
+  }
+  
+  #startGameButton{
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    font-size: 25px;
+    border-radius: 15px;
+    border: 2px;
+    }
+  
+    #startGameButton:hover{
+      background-color: dodgerblue;
+    }
+  
+  .answersButtons{
+    font-size: 20px;
+    margin: 3px;
+    background: none;
+    width: 100%;
+    border-radius: 15px;
+    border: 2px solid lightgray;
+  }
+  
+  .answersButtons:hover{
+    border: 2px solid dodgerblue;
+    color: dodgerblue;
+  }
+  
+  .picture{
+    max-height: 300px;
+    max-width: 200px;
+    text-align: center;
+  }
+  
+  .modal-content{
+    color: black;
+  }
+  
+  .modal-body{
+    overflow: hidden;
+  }

@@ -62,7 +62,7 @@ function createQuestionArray() {
         /*answers:*/ ["Pizza", "Bolognese sauce with tagliatelle pasta", "Gelato", "Spaghetti", null],
         /*correctAnswer:*/ 1,
         /*userAnswer:*/ 4,
-        /*picture:*/ ,
+        /*picture:*/ "assets/images/BologneseSauceWithTagliatellePasta.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
         
@@ -71,7 +71,7 @@ function createQuestionArray() {
         /*answers:*/ ["Sweden", "Spain", "Norway", "Greece", null],
         /*correctAnswer:*/ 2,
         /*userAnswer:*/ 4,
-        /*picture:*/ "assets/images/bach.jpg",
+        /*picture:*/ "assets/images/Norway.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -80,7 +80,7 @@ function createQuestionArray() {
         /*answers:*/ ["Moon Pie", "Cosmic Brownie", "Galactic Grape", "Lunar Cheesecake", null],
         /*correctAnswer:*/ 3,
         /*userAnswer:*/ 4,
-        /*picture:*/ "assets/images/largo.jpg",
+        /*picture:*/ "assets/images/LunarCheesecsake.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -89,7 +89,7 @@ function createQuestionArray() {
         /*answers:*/ ["Halibut", "Salmon", "Trout", "Herring", null],
         /*correctAnswer:*/ 3,
         /*userAnswer:*/ 4,
-        /*picture:*/ "assets/images/chopin.jpg",
+        /*picture:*/ "assets/images/Herring.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -98,7 +98,7 @@ function createQuestionArray() {
         /*answers:*/ ["Argentina", "Brazil", "Chile", "Madagascar", null],
         /*correctAnswer:*/ 3,
         /*userAnswer:*/ 4,
-        /*picture:*/ "assets/images/margaret-handel.jpg",
+        /*picture:*/ "assets/images/Madagascar.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -107,7 +107,7 @@ function createQuestionArray() {
         /*answers:*/ ["Rice Crispies", "Raisin Bran", "Corn Flakes", "Shredded Wheat", null],
         /*correctAnswer:*/ 3,
         /*userAnswer:*/ 4,
-        /*picture:*/ "assets/images/phantom.png",
+        /*picture:*/ "assets/images/ShreddedWheat.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -116,7 +116,7 @@ function createQuestionArray() {
         /*answers:*/ ["Vitamin D", "Vitamin B-12", "Vitamin K", "Vitamin A", null],
         /*correctAnswer:*/ 3,
         /*userAnswer:*/ 4,
-        /*picture:*/ "berlioz.jpg",
+        /*picture:*/ "assets/images/VitaminA.jpg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -125,7 +125,7 @@ function createQuestionArray() {
         /*answers:*/ ["South America", "Hawaii", "Sri Lanka", "Portugal", null],
         /*correctAnswer:*/ 0,
         /*userAnswer:*/ 4,
-
+        /*picture:*/ "assets/images/SouthAmerica.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -134,6 +134,7 @@ function createQuestionArray() {
         /*answers:*/ ["Europe", "South America", "North Americia", "Asia", null],
         /*correctAnswer:*/ 1,
         /*userAnswer:*/ 4,
+        /*picture:*/ "assets/images/SouthAmerica.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
     
@@ -142,6 +143,7 @@ function createQuestionArray() {
         /*answers:*/ ["Georgia", "New York", "Chicago", "Florida", null],
         /*correctAnswer:*/ 0,
         /*userAnswer:*/ 4,
+        /*picture:*/ "assets/images/Georgia.jpeg",
         /*isCorrect:*/ false,
         /*isTimeUp:*/ false);
         
