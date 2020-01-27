@@ -138,8 +138,8 @@ function createQuestionArray() {
         /*isTimeUp:*/ false);
     
       var question9 = new questionObject(
-        /*question:*/ "",
-        /*answers:*/ ["Fantasie", "Raindrop", "Revolutionary", "Clair De Lune", null],
+        /*question:*/ "What state was Coca-Cola first sold in?",
+        /*answers:*/ ["Georgia", "New York", "Chicago", "Florida", null],
         /*correctAnswer:*/ 0,
         /*userAnswer:*/ 4,
         /*isCorrect:*/ false,
